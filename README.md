@@ -81,10 +81,9 @@ I reinforced my skills in building responsive layouts using CSS Grid and Flexbox
 
 ### AI Collaboration
 
-- **Tools used:** Google AI Studio (Gemini 3.1 Pro), Front-end Mentor
+- **Tools used:** CLaude, Front-end Mentor
 - **How it was used:** I used the AI to help write the vanilla CSS with the custom color palette, and generate the staggered layout logic.
-
-I used front-mentor solution improvemen to improve my code
+  I used front-mentor solution improvemen to improve my code
 
 ## Author
 
