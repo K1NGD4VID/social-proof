@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-_(Screenshot would be placed here)_
+![Social proof section screenshot](https://i.postimg.cc/26DYgccp/social-proof-screenshot.png)
 
 ### Links
 
@@ -43,11 +43,11 @@ _(Screenshot would be placed here)_
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- Vanilla CSS (No frameworks)
+- Vanilla CSS
 
 ### What I learned
 
-I reinforced my skills in building responsive layouts using CSS Grid and Flexbox with pure CSS. I also practiced implementing a staggered layout for both the rating boxes and the testimonial cards using margin offsets and transforms on larger screens.
+I reinforced my skills in building responsive layouts using CSS Grid and Flexbox with CSS. I also practiced implementing a staggered layout for both the rating boxes and the testimonial cards using margin offsets and transforms on larger screens.
 
 ```css
 /* Example of staggered layout using CSS */
@@ -81,8 +81,10 @@ I reinforced my skills in building responsive layouts using CSS Grid and Flexbox
 
 ### AI Collaboration
 
-- **Tools used:** Google AI Studio (Gemini 3.1 Pro)
-- **How it was used:** I used the AI to help scaffold the HTML structure and write the vanilla CSS with the custom color palette, and generate the staggered layout logic. The AI also assisted in writing this README file.
+- **Tools used:** Google AI Studio (Gemini 3.1 Pro), Front-end Mentor
+- **How it was used:** I used the AI to help write the vanilla CSS with the custom color palette, and generate the staggered layout logic.
+
+I used front-mentor solution improvemen to improve my code
 
 ## Author
 
